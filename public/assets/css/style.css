@@ -1,0 +1,19 @@
+body{
+    background-image: url("../images/bobs-background.png");
+    background-size: 100%;
+    background-attachment: fixed;
+}
+
+h1{
+    font-family: 'Bangers', cursive;
+    color: rgb(108, 144, 208);
+    text-shadow: 2px 2px 4px #000000;
+    font-size: 50px !important;
+}
+h3{
+    font-family: 'Bangers', cursive;
+}
+
+.makeburger{
+    background-color: rgb(108, 144, 208) !important;
+}
